@@ -1,0 +1,8 @@
+﻿  ControlDlg.cpp
+C:\Users\CXLAB\source\repos\ValveControl\ValveControl\ControlDlg.cpp(153,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/ControlDlg.cpp')
+  
+  ValveControl.cpp
+  ValveControlView.cpp
+  Generating Code...
+  ValveControl.vcxproj -> C:\Users\CXLAB\source\repos\ValveControl\x64\Debug\ValveControl.exe

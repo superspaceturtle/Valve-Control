@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ValveControl.cpp
+  ValveControlDoc.cpp
+  ValveControlView.cpp
+  ViewTree.cpp
+  Generating Code...
+  ValveControl.vcxproj -> C:\Users\CXLAB\source\repos\ValveControl\Debug\ValveControl.exe
